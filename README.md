@@ -5,5 +5,6 @@ https://www.zhihu.com/zvideo/1634269172917153793
 https://zhuanlan.zhihu.com/p/626243960
 
 
-AI数字绘画 https://github.com/AUTOMATIC1111/stable-diffusion-webui
-https://zhuanlan.zhihu.com/p/560226367
+
+stable-diffusion https://github.com/AUTOMATIC1111/stable-diffusion-webui
+AI数字绘画https://zhuanlan.zhihu.com/p/560226367
