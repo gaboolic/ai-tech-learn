@@ -1,3 +1,6 @@
+声音
+
+
 bark https://github.com/suno-ai/bark
 
 开源文本转语音
@@ -7,6 +10,7 @@ https://zhuanlan.zhihu.com/p/626243960
 ai音色转换 https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
 
 
+绘画
 
 stable-diffusion https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
