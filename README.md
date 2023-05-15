@@ -1,4 +1,4 @@
-声音
+#声音
 
 
 bark https://github.com/suno-ai/bark
@@ -10,13 +10,13 @@ https://zhuanlan.zhihu.com/p/626243960
 ai音色转换 https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
 
 
-绘画
+#绘画
 
 stable-diffusion https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 AI数字绘画https://zhuanlan.zhihu.com/p/560226367
 
 
-数字人
+#数字人
 
 Fay https://github.com/TheRamU/Fay
