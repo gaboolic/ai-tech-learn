@@ -46,7 +46,7 @@
 | auto-gpt | https://github.com/Significant-Gravitas/Auto-GPT | 每次都做决策，从给出的命令列表中选择一个执行，有点类似贪心算法；它更像是一个demo，给大家指明了一条使用大模型的新道路 |
 | babyagi | https://github.com/yoheinakajima/babyagi | 先规划执行步骤，再顺序执行 |
 | JARVIS | https://github.com/microsoft/JARVIS | 又名: HuggingGPT。先做任务规划，再执行，可以使用HugingFace上的模型 |
-| langchain | https://github.com/hwchase17/langchain | https://python.langchain.com/en/latest/use_cases/question_answering.html 自由组合LLM，也对接了向量数据库、autogpt、babyagi等，基于这个项目可以很容易做出特定文档的QA机器人、DND角色扮演游戏等等。个人感觉langchain会是未来的基础框架 |
+| langchain | https://github.com/hwchase17/langchain | https://python.langchain.com/en/latest/use_cases/question_answering.html <br>自由组合LLM，也对接了向量数据库、autogpt、babyagi等，基于这个项目可以很容易做出特定文档的QA机器人、DND角色扮演游戏等等。个人感觉langchain会是未来的基础框架 |
 
 # 各种技术组合起来的一些应用
 
