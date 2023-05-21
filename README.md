@@ -1,18 +1,16 @@
-声音
+# 声音
 
-bark https://github.com/suno-ai/bark
-
-开源文本转语音
-https://www.zhihu.com/zvideo/1634269172917153793
-https://zhuanlan.zhihu.com/p/626243960
-
-ai音色转换 https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+| 名称  | 链接  | 说明  |
+| --- | --- | --- |
+| bark | https://github.com/suno-ai/bark | 开源文本转语音<br/>https://www.zhihu.com/zvideo/1634269172917153793<br/>https://zhuanlan.zhihu.com/p/626243960 |
+| ai音色转换 | https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI |     |
 
 # 绘画
 
-stable-diffusion https://github.com/AUTOMATIC1111/stable-diffusion-webui
-
-AI数字绘画https://zhuanlan.zhihu.com/p/560226367
+| 名称  | 链接  | 说明  |
+| --- | --- | --- |
+| stable-diffusion | https://github.com/CompVis/stable-diffusion | AI数字绘画https://zhuanlan.zhihu.com/p/560226367 https://github.com/hua1995116/awesome-ai-painting |
+| stable-diffusion-webui | https://github.com/AUTOMATIC1111/stable-diffusion-webui | stable-diffusion的web客户端，直接用这个就可以了 |
 
 # 数字人
 
