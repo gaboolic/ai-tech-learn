@@ -52,5 +52,5 @@
 
 | 名称  | 链接  | 备注  |
 | --- | --- | --- |
-| MaterialSearch | https://github.com/chn-lee-yumi/MaterialSearch | ai语义搜索本地素材，以图搜图，以文搜图搜视频等~~ 感觉可以用来查番号~~ |
+| MaterialSearch | https://github.com/chn-lee-yumi/MaterialSearch | ai语义搜索本地素材，以图搜图，以文搜图搜视频等 ~~感觉可以用来查番号~~ |
 | open-chat-video-editor | https://github.com/SCUTlihaoyu/open-chat-video-editor | 短视频生成和编辑工具，一键生成短视频，短句转短视频，网页链接转短视频<br/>使用CLIP、stable diffusion、chatgpt |
