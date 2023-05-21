@@ -9,7 +9,7 @@
 
 | 名称  | 链接  | 说明  |
 | --- | --- | --- |
-| stable-diffusion | https://github.com/CompVis/stable-diffusion | AI数字绘画https://zhuanlan.zhihu.com/p/560226367 https://github.com/hua1995116/awesome-ai-painting |
+| stable-diffusion | https://github.com/CompVis/stable-diffusion | AI数字绘画https://zhuanlan.zhihu.com/p/560226367 <br>https://github.com/hua1995116/awesome-ai-painting |
 | stable-diffusion-webui | https://github.com/AUTOMATIC1111/stable-diffusion-webui | stable-diffusion的web客户端，直接用这个就可以了 |
 
 # 数字人
