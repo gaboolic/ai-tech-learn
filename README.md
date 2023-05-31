@@ -54,3 +54,5 @@
 | --- | --- | --- |
 | MaterialSearch | https://github.com/chn-lee-yumi/MaterialSearch | ai语义搜索本地素材，以图搜图，以文搜图搜视频等 ~~感觉可以用来查番号~~ |
 | open-chat-video-editor | https://github.com/SCUTlihaoyu/open-chat-video-editor | 短视频生成和编辑工具，一键生成短视频，短句转短视频，网页链接转短视频<br/>使用CLIP、stable diffusion、chatgpt |
+ecoute | https://github.com/SevaSk/ecoute | Ecoute是一款实时转录工具，可以为用户的麦克风输入（您）和扬声器输出（扬声器）提供实时文本转录。它还使用OpenAI的GPT-3.5生成建议回复，根据对话的实时转录提示用户说什么。|
+quivr | https://github.com/StanGirard/quivr | 第二大脑，把私有文件导到生成式ai，实现电子永生 |
