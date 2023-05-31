@@ -36,6 +36,7 @@
 | ChatRWKV | https://github.com/BlinkDL/ChatRWKV | 国人开发的，类似ChatGPT，但底层是100%的RNN（循环神经网络） |
 | ChatGLM-6B | https://github.com/THUDM/ChatGLM-6B | 清华开源的 |
 | bloom | https://github.com/sambanova/bloomchat | https://huggingface.co/bigscience/bloom <br>https://zhuanlan.zhihu.com/p/603518061 |
+| llama | https://github.com/facebookresearch/llama | facebook LLaMA |
 
 # prompt学习
 
